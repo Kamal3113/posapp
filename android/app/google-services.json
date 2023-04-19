@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075681024283",
+    "project_id": "posrestapp",
+    "storage_bucket": "posrestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075681024283:android:646537122cdfb92345dbbe",
+        "android_client_info": {
+          "package_name": "com.example.posbillingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075681024283-33kj5fs9gca0l88nf7s3s3o8rt0pgmgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WZmqa6Ce5G2TxsG4ynQGUUaKLMjK4Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075681024283-33kj5fs9gca0l88nf7s3s3o8rt0pgmgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
